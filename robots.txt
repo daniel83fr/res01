@@ -1,3 +1,0 @@
-user-agent:*
-Disallow:
-Sitemap: https://www.res01.com/sitemap.xml
